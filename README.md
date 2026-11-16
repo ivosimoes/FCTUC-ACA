@@ -12,10 +12,14 @@ Projects made for 2024/2025 edition of Advanced Machine Learning course
 
 **Objective 2**: This project experiments with various generative frameworks (VAEs, GANs, and Diffusion Models) for blood cell image synthesis using the [BloodMNIST](https://arxiv.org/pdf/2110.14795) dataset.
 
+## Group
+- António Marques (uc2022259825)
+- Ivo Simões (uc2024160048)
+
 ## Repository Structure
 
 ```text
 ├── Project1                # Contains experimentation source code (Project.ipynb) and article-style report (Report.pdf) for dermatology problem
 ├── Project2                # Contains experimentation source code (Project.ipynb), DDPM generation GIF (DDPM.gif), and article-style report (Report.pdf) for blood cell problem
-└── README.md                # Project details
+└── README.md               # Project details
 ```
